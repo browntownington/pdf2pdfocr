@@ -2,14 +2,13 @@
 A tool to OCR a PDF (or supported images) and add a text "layer" (a "pdf sandwich") in the original file making it a searchable PDF.
 The script uses only open source tools.
 
-# donations
+# linux install (mrlb updated)
 This software is free, but if you like it, please donate to support new features.
 
-[![paypal](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PZZU5APJGSWVA&lc=GB&item_name=pdf2pdfocr%20development&currency_code=USD)
-
-[![flattr](https://button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?fid=pojqg0&url=https%3A%2F%2Fgithub.com%2FLeoFCardoso%2Fpdf2pdfocr)
-
-Bitcoin (BTC) address: [173D1zQQyzvCCCek9b1SpDvh7JikBEdtRJ](https://blockchair.com/bitcoin/address/173D1zQQyzvCCCek9b1SpDvh7JikBEdtRJ)
+pip3 install psutil
+pip3 install beautifulsoup4
+pip3 install reportlab
+sudo apt-get install tesseract-ocr-eng
 
 # tips
 Tips are also welcome!
