@@ -17,6 +17,8 @@ sudo apt-get install imagemagick
 
 sudo apt install poppler-utils
 
+sudo apt install qpdf
+
 
 # tips
 Tips are also welcome!
