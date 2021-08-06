@@ -5,10 +5,12 @@ The script uses only open source tools.
 # linux install (mrlb updated)
 This software is free, but if you like it, please donate to support new features.
 
-pip3 install psutil
-pip3 install beautifulsoup4
-pip3 install reportlab
-sudo apt-get install tesseract-ocr-eng
+pip3 install psutil 
+pip3 install beautifulsoup4 
+pip3 install reportlab 
+sudo apt-get install tesseract-ocr-eng 
+sudo apt-get install imagemagick 
+sudo apt install poppler-utils
 
 # tips
 Tips are also welcome!
